@@ -41,7 +41,7 @@ This LangGraph-based agent automates customer support by processing incoming tic
 
 
 ## 🧠 Architecture
-
+```
 graph TD
     Start --> Classifier
     Classifier -->|Billing| Retriever
@@ -52,6 +52,8 @@ graph TD
     Reviewer -->|Fail| Retry[Retry Counter]
     Retry -->|< 2 attempts| LLM
     Retry -->|>= 2 attempts| Escalation
+
+```
 
 - **Classifier:** Determines ticket type  
 - **Retriever:** Fetches documents from FAISS index  
@@ -73,7 +75,7 @@ graph TD
 ### 1. Clone the repo
 
 
-git clone https://github.com/yourusername/support-agent-langgraph.git
+git clone https://github.com/hamza-prof/support-agent-langgraph.git
 cd support-agent-langgraph
 
 ### 2. Create virtual environment and activate
@@ -246,7 +248,7 @@ If you encounter issues not covered here:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/support-agent-langgraph.git
+git clone https://github.com/hamza-prof/support-agent-langgraph.git
 cd support-agent-langgraph
 
 # Create and activate virtual environment
