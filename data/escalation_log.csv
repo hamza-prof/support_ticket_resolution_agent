@@ -1,0 +1,129 @@
+Subject,Description,Draft,Feedback
+hi,hellwo,"Hello,
+
+Thank you for reaching out to us. In order to assist you better, could you please provide more details about the issue you are experiencing? Feel free to share any specific concerns or questions you have, and I will do my best to help you resolve them. 
+
+If you need immediate assistance, you can also reach out to us via our in-app chat feature. Our support hours are Monday–Friday, 9 AM to 6 PM PST. 
+
+Looking forward to hearing from you soon so we can address your needs promptly.
+
+Best regards, 
+[Your Name]","REJECTED
+
+1. TICKET CONTEXT VALIDATION:
+- This response does not match the ticket category ""general"" as it is more focused on technical support rather than a general inquiry.
+- The response does not directly address the user's stated problem of ""hello"" and instead asks for more details, which is not in line with the ticket context.
+
+Therefore, the response fails to meet the ticket context validation criteria and is rejected."
+hu,hello,"Hello,
+
+Thank you for reaching out to us. In order to assist you effectively, could you please provide more specific information about the issue you are facing? 
+
+If you need help with account-related matters, preferences, or feedback, feel free to let us know. Our user guides and video tutorials are also available in multiple languages to provide additional assistance.
+
+We are here to help, so please provide more details so that we can assist you better. 
+
+Looking forward to your response.","REJECTED
+
+Specific criteria failed:
+1. Response Quality: The draft response is too vague and does not address the user's stated problem.
+2. Content Requirements: The response does not provide specific, actionable steps or information to assist the user effectively.
+3. Ticket Context Validation: The response does not match the ticket category and ignores the ticket details."
+hi,hello,"Hello,
+
+Thank you for reaching out to us. In order for me to assist you effectively, could you please provide more specific information about the issue you are experiencing or what you need help with? 
+
+If you have any account-related questions, feedback, or preferences you'd like to discuss, feel free to share them with us. We have tutorials and guides available in our Help Center that might also be of assistance.
+
+Looking forward to hearing from you so we can provide the best support possible.
+
+Best regards.","REJECTED
+
+**Criteria Failed:**
+1. Response Quality: The response is too generic and does not address the user's stated problem.
+2. Content Requirements: The response does not provide specific, actionable steps or information to help the user.
+3. Ticket Context Validation: The response does not match the ticket category as it is a general inquiry and the response does not provide any specific assistance."
+hu,fhd,"Hello,
+
+Thank you for reaching out. I see that your ticket subject and description are quite vague. In order to assist you better, could you please provide more specific details about the issue you are facing? 
+
+In the meantime, if you are looking for general assistance, you can refer to our user guides and video tutorials available in multiple languages. Additionally, our support hours are Monday-Friday from 9 AM to 6 PM PST.
+
+Please provide more information so we can assist you effectively. Thank you for your cooperation.","REJECTED
+- Response does not directly address the user's stated problem, which is a violation of the content requirements.
+- The response is too vague and does not provide specific, actionable steps or information to help the user, failing the response quality criteria.
+- It fails to provide professional customer service-oriented assistance, as it simply asks for more information without offering any initial guidance."
+hi,hello,"Hello,
+
+Thank you for reaching out to us. In order to assist you better, could you please provide more specific details about the issue you are experiencing or how we can help you? 
+
+If you are looking for general assistance with your account, preferences, or feedback, feel free to explore our Help Center for tutorials and guides. Additionally, we offer beta testing programs for early access to new features and user guides in multiple languages.
+
+Please let us know how we can assist you further. We're here to help!","REJECTED
+
+This response fails to meet several criteria:
+1. Compliance & Safety: The response is generic and does not disclose sensitive information, so it passes this criteria.
+2. Response Quality: The response is vague and unhelpful, asking the user to provide more details without offering any specific assistance. It also does not address the actual issue the user might be facing.
+3. Content Requirements: The response lacks specific, actionable steps or information to help the user. It also doesn't directly address the user's stated problem.
+4. Ticket Context Validation: The response is generic and not tailored to the specific ticket category or details provided.
+
+Overall, this response does not meet the quality standards required for approval.",Max attempts (2) reached without approval
+hi,hello,"Hello,
+
+Thank you for reaching out to us. In order to assist you better, could you please provide more details about the specific issue you are facing or what you need help with? This will help us provide you with the most accurate and helpful support. 
+
+If you are looking for general assistance with your account, preferences, or feedback, feel free to check out our Help Center for tutorials and guides. We are here to help, so please don't hesitate to provide more information so we can assist you effectively.
+
+Looking forward to hearing from you soon.","REJECTED
+- Response is too generic and doesn't address the user's stated problem.
+- Response is vague and does not provide specific, actionable steps or information.
+- Response is more of an acknowledgment without providing actual help.
+- Response is shorter than 50 words, likely insufficient.
+- Response does not meet the content requirements of being professional, customer-service oriented, and including relevant context or explanation.",Max attempts (2) reached without approval
+hi,hello,"Hello,
+
+Thank you for reaching out to us. In order to assist you effectively, could you please provide more details about the issue you are experiencing? Our support team is here to help with any account issues, preferences, or feedback you may have. 
+
+If you require immediate assistance, you can also chat with us directly through our in-app chat feature during our support hours, Monday–Friday, 9 AM to 6 PM PST. 
+
+Looking forward to resolving your concern. Let us know how we can assist you further.
+
+Best regards, 
+[Your Name]","REJECTED
+
+Specific Criteria Failed:
+1. Response Quality: The draft response is too vague and generic, asking for more details without providing any actual help or guidance.
+2. Content Requirements: The response lacks specific actionable steps or information to address the user's stated problem.
+3. Ticket Context Validation: The response is generic and does not match the ticket category or address the ticket details.",Max attempts (2) reached without approval
+hi,hello,"Hello,
+
+Thank you for reaching out to us. In order to assist you effectively, could you please provide more specific information about the issue you are experiencing? Our team is here to help with any account issues, preferences, or feedback you may have. You can also access tutorials and guides in our Help Center for additional assistance. Feel free to reach out through our in-app chat for immediate support during our operating hours, Monday-Friday from 9 AM to 6 PM PST.
+
+Looking forward to resolving your concern.","REJECTED
+- Response does not directly address the user's stated problem. The draft response asks for more information without providing any initial assistance or guidance.
+- Response is too generic and does not provide specific, actionable steps to help the user.
+- Response is vague and does not offer any relevant context or explanation to assist the user effectively.",Max attempts (2) reached without approval
+hi,hello,"Hello,
+
+Thank you for reaching out. In order to assist you effectively, could you please provide more specific details about the issue you are experiencing or what assistance you require? This will help us address your concerns promptly and accurately. 
+
+If you are facing any account-related issues, preferences, or have feedback to share, feel free to provide more information so we can assist you accordingly. You can also check out our Help Center for tutorials and guides or use our in-app chat for instant support during our operating hours, Monday–Friday, 9 AM to 6 PM PST.
+
+Looking forward to hearing from you soon. Let us know how we can help further.","REJECTED
+- Response is too vague and does not provide specific help or address the user's stated problem
+- Response is generic and does not offer actionable steps or information
+- Response is shorter than 50 words and lacks clear, customer-service oriented guidance",Max attempts (2) reached without approval
+hu,hello,"Hello,
+
+Thank you for reaching out. In order to assist you effectively, could you please provide more details about the issue you are experiencing? This will help us better understand how to support you. 
+
+If you have any specific account problems, preferences, or feedback, feel free to share them with us. You can also access tutorials and guides in our Help Center for additional assistance. 
+
+We are here to help and look forward to resolving any concerns you may have. Please provide more information so we can assist you further.
+
+Best regards, 
+[Your Name]","REJECTED
+- The response is too generic and does not directly address the user's stated problem
+- It is vague and does not provide specific, actionable steps or information
+- The response is shorter than 50 words and does not offer any real help or guidance
+- It does not match the ticket category and ignores the ticket details",Max attempts (2) reached without approval

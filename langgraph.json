@@ -1,0 +1,9 @@
+{
+  "entrypoint": "graph_router:graph",
+  "env": ".env",
+  "dependencies": ["."],
+  "image_distro": "wolfi",
+  "graphs": {
+    "agent": "graph_router:graph"
+  }
+}
